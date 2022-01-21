@@ -1,0 +1,26 @@
+<annotation>
+	<folder>extra</folder>
+	<filename>pakistani actor in mask_17.jpeg</filename>
+	<path>C:\Users\HP\Desktop\artifacts\MASK-dataset\version-2\extra\pakistani actor in mask_17.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>991</width>
+		<height>537</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>291</xmin>
+			<ymin>101</ymin>
+			<xmax>412</xmax>
+			<ymax>263</ymax>
+		</bndbox>
+	</object>
+</annotation>

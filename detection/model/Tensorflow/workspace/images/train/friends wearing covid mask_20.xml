@@ -1,0 +1,38 @@
+<annotation>
+	<folder>extra</folder>
+	<filename>friends wearing covid mask_20.jpeg</filename>
+	<path>C:\Users\HP\Desktop\artifacts\MASK-dataset\version-2\extra\friends wearing covid mask_20.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1232</width>
+		<height>821</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>573</xmin>
+			<ymin>247</ymin>
+			<xmax>644</xmax>
+			<ymax>338</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>254</xmin>
+			<ymin>255</ymin>
+			<xmax>308</xmax>
+			<ymax>309</ymax>
+		</bndbox>
+	</object>
+</annotation>

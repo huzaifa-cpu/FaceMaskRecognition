@@ -1,0 +1,26 @@
+<annotation>
+	<folder>extra</folder>
+	<filename>man with mask_9.jpeg</filename>
+	<path>C:\Users\HP\Desktop\artifacts\MASK-dataset\version-2\extra\man with mask_9.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>533</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>133</xmin>
+			<ymin>263</ymin>
+			<xmax>405</xmax>
+			<ymax>561</ymax>
+		</bndbox>
+	</object>
+</annotation>

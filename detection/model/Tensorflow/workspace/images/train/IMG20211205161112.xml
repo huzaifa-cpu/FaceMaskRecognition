@@ -1,0 +1,26 @@
+<annotation>
+	<folder>without</folder>
+	<filename>IMG20211205161112.jpg</filename>
+	<path>C:\Users\HP\Desktop\artifacts\MASK-dataset\version-2\without\IMG20211205161112.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2448</width>
+		<height>3264</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NoMask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>919</xmin>
+			<ymin>1202</ymin>
+			<xmax>1334</xmax>
+			<ymax>1702</ymax>
+		</bndbox>
+	</object>
+</annotation>

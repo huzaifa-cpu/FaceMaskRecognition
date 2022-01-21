@@ -1,0 +1,26 @@
+<annotation>
+	<folder>extra</folder>
+	<filename>476-with-mask.jpg</filename>
+	<path>C:\Users\HP\Desktop\artifacts\MASK-dataset\detection\extra\476-with-mask.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>187</width>
+		<height>203</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>66</xmin>
+			<ymin>44</ymin>
+			<xmax>138</xmax>
+			<ymax>116</ymax>
+		</bndbox>
+	</object>
+</annotation>

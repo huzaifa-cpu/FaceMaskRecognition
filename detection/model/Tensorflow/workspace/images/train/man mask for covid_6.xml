@@ -1,0 +1,26 @@
+<annotation>
+	<folder>extra</folder>
+	<filename>man mask for covid_6.jpeg</filename>
+	<path>C:\Users\HP\Desktop\artifacts\MASK-dataset\version-2\extra\man mask for covid_6.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2121</width>
+		<height>1414</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1232</xmin>
+			<ymin>453</ymin>
+			<xmax>1501</xmax>
+			<ymax>811</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>without</folder>
+	<filename>normal people face_13.jpeg</filename>
+	<path>C:\Users\HP\Desktop\artifacts\MASK-dataset\version-2\without\normal people face_13.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2800</width>
+		<height>3500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NoMask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>861</xmin>
+			<ymin>1039</ymin>
+			<xmax>1911</xmax>
+			<ymax>2311</ymax>
+		</bndbox>
+	</object>
+</annotation>

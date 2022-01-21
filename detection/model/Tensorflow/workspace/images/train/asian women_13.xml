@@ -1,0 +1,26 @@
+<annotation>
+	<folder>without</folder>
+	<filename>asian women_13.jpeg</filename>
+	<path>C:\Users\HP\Desktop\artifacts\MASK-dataset\version-2\without\asian women_13.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1440</width>
+		<height>810</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NoMask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>617</xmin>
+			<ymin>343</ymin>
+			<xmax>767</xmax>
+			<ymax>515</ymax>
+		</bndbox>
+	</object>
+</annotation>

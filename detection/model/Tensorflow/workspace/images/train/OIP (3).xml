@@ -1,0 +1,26 @@
+<annotation>
+	<folder>remain</folder>
+	<filename>OIP (3).png</filename>
+	<path>C:\Users\HP\Desktop\artifacts\final-mask\remain\OIP (3).png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>163</width>
+		<height>231</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>64</ymin>
+			<xmax>85</xmax>
+			<ymax>131</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>remain</folder>
+	<filename>1577.jpg</filename>
+	<path>C:\Users\HP\Desktop\artifacts\final-mask\remain\1577.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>794</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>243</xmin>
+			<ymin>397</ymin>
+			<xmax>597</xmax>
+			<ymax>800</ymax>
+		</bndbox>
+	</object>
+</annotation>

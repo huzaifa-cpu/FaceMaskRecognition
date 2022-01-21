@@ -1,0 +1,26 @@
+<annotation>
+	<folder>remain</folder>
+	<filename>317.jpg</filename>
+	<path>C:\Users\HP\Desktop\artifacts\final-mask\remain\317.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>264</width>
+		<height>331</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NoMask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>65</xmin>
+			<ymin>92</ymin>
+			<xmax>184</xmax>
+			<ymax>251</ymax>
+		</bndbox>
+	</object>
+</annotation>

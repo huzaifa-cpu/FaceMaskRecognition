@@ -1,0 +1,26 @@
+<annotation>
+	<folder>without</folder>
+	<filename>celebrities_9.jpeg</filename>
+	<path>C:\Users\HP\Desktop\artifacts\MASK-dataset\version-2\without\celebrities_9.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2982</width>
+		<height>2073</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NoMask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1207</xmin>
+			<ymin>562</ymin>
+			<xmax>1794</xmax>
+			<ymax>1433</ymax>
+		</bndbox>
+	</object>
+</annotation>

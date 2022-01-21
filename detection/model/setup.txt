@@ -1,0 +1,7 @@
+Run these commands to create and activate environment:
+python -m venv mask-env                                  --create
+.\mask-env\Scripts\activate                              --activate
+python -m pip install --upgrade pip                      --update pip
+pip install ipykernel                                    --connection with anaconda
+python -m ipykernel install --user --name=mask-env       --create jupyter environment
+jupyter notebook

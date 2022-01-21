@@ -1,0 +1,26 @@
+<annotation>
+	<folder>without</folder>
+	<filename>pakistan actors_3.png</filename>
+	<path>C:\Users\HP\Desktop\artifacts\MASK-dataset\version-2\without\pakistan actors_3.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>962</width>
+		<height>1198</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NoMask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>492</xmin>
+			<ymin>167</ymin>
+			<xmax>766</xmax>
+			<ymax>486</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>without</folder>
+	<filename>man_10.jpeg</filename>
+	<path>C:\Users\HP\Desktop\artifacts\MASK-dataset\version-2\without\man_10.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1188</width>
+		<height>1028</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NoMask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>375</xmin>
+			<ymin>253</ymin>
+			<xmax>617</xmax>
+			<ymax>581</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>without</folder>
+	<filename>footballers_10.jpeg</filename>
+	<path>C:\Users\HP\Desktop\artifacts\MASK-dataset\version-2\without\footballers_10.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>207</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NoMask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>127</xmin>
+			<ymin>20</ymin>
+			<xmax>151</xmax>
+			<ymax>52</ymax>
+		</bndbox>
+	</object>
+</annotation>

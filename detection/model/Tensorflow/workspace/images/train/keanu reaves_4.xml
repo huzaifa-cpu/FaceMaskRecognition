@@ -1,0 +1,26 @@
+<annotation>
+	<folder>without</folder>
+	<filename>keanu reaves_4.jpeg</filename>
+	<path>C:\Users\HP\Desktop\artifacts\MASK-dataset\version-2\without\keanu reaves_4.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2500</width>
+		<height>1871</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NoMask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1297</xmin>
+			<ymin>632</ymin>
+			<xmax>1673</xmax>
+			<ymax>1123</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>person webcam images_42.jpeg</filename>
+	<path>C:\Users\HP\Desktop\SiGmA\data\person webcam images_42.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>626</width>
+		<height>352</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NoMask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>291</xmin>
+			<ymin>74</ymin>
+			<xmax>354</xmax>
+			<ymax>152</ymax>
+		</bndbox>
+	</object>
+</annotation>

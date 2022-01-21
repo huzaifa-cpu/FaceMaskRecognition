@@ -1,0 +1,26 @@
+<annotation>
+	<folder>extra</folder>
+	<filename>footballers wearing covid mask_13.jpeg</filename>
+	<path>C:\Users\HP\Desktop\artifacts\MASK-dataset\version-2\extra\footballers wearing covid mask_13.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2123</width>
+		<height>1413</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1248</xmin>
+			<ymin>388</ymin>
+			<xmax>1400</xmax>
+			<ymax>578</ymax>
+		</bndbox>
+	</object>
+</annotation>

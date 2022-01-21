@@ -1,0 +1,26 @@
+<annotation>
+	<folder>without</folder>
+	<filename>girl_9.jpeg</filename>
+	<path>C:\Users\HP\Desktop\artifacts\MASK-dataset\version-2\without\girl_9.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>645</width>
+		<height>877</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NoMask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>237</xmin>
+			<ymin>169</ymin>
+			<xmax>408</xmax>
+			<ymax>364</ymax>
+		</bndbox>
+	</object>
+</annotation>

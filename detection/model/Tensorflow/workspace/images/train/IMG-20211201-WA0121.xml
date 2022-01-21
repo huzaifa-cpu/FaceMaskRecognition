@@ -1,0 +1,26 @@
+<annotation>
+	<folder>remain</folder>
+	<filename>IMG-20211201-WA0121.jpg</filename>
+	<path>C:\Users\HP\Desktop\artifacts\final-mask\remain\IMG-20211201-WA0121.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>764</width>
+		<height>942</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NoMask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>308</xmin>
+			<ymin>93</ymin>
+			<xmax>377</xmax>
+			<ymax>174</ymax>
+		</bndbox>
+	</object>
+</annotation>

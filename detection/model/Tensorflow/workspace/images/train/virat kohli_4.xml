@@ -1,0 +1,26 @@
+<annotation>
+	<folder>without</folder>
+	<filename>virat kohli_4.jpeg</filename>
+	<path>C:\Users\HP\Desktop\artifacts\MASK-dataset\version-2\without\virat kohli_4.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NoMask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>218</xmin>
+			<ymin>101</ymin>
+			<xmax>315</xmax>
+			<ymax>258</ymax>
+		</bndbox>
+	</object>
+</annotation>

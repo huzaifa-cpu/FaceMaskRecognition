@@ -1,0 +1,26 @@
+<annotation>
+	<folder>extra</folder>
+	<filename>boys wearing mask_7.jpeg</filename>
+	<path>C:\Users\HP\Desktop\artifacts\MASK-dataset\version-2\extra\boys wearing mask_7.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>580</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>317</xmin>
+			<ymin>156</ymin>
+			<xmax>505</xmax>
+			<ymax>353</ymax>
+		</bndbox>
+	</object>
+</annotation>

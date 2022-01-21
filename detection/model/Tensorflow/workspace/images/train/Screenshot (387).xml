@@ -1,0 +1,26 @@
+<annotation>
+	<folder>remain</folder>
+	<filename>Screenshot (387).png</filename>
+	<path>C:\Users\HP\Desktop\artifacts\final-mask\remain\Screenshot (387).png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>236</width>
+		<height>180</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>68</xmin>
+			<ymin>42</ymin>
+			<xmax>124</xmax>
+			<ymax>105</ymax>
+		</bndbox>
+	</object>
+</annotation>

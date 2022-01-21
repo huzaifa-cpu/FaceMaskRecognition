@@ -1,0 +1,26 @@
+<annotation>
+	<folder>extra</folder>
+	<filename>indian actor in mask_13.jpeg</filename>
+	<path>C:\Users\HP\Desktop\artifacts\MASK-dataset\version-2\extra\indian actor in mask_13.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>322</xmin>
+			<ymin>972</ymin>
+			<xmax>793</xmax>
+			<ymax>1533</ymax>
+		</bndbox>
+	</object>
+</annotation>
